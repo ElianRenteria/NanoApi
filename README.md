@@ -66,7 +66,7 @@ This is a lightweight Flask API designed to demonstrate basic HTTP request handl
 
 ### Prerequisites
 
-- **Python 3.7+**
+- **Python 3.12+**
 - **Flask**: Install via `pip install Flask`
 - **Requests Library**: Install via `pip install requests`
 
